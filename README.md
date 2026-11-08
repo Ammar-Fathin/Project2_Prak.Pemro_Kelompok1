@@ -16,7 +16,6 @@ Aplikasi terminal (CLI) untuk mengelola peminjaman alat laboratorium. Dibuat den
 | 1  | Fathma Daniswara T.P    | K3525060 |
 | 2  | Muhammad Ammar Fathin   | K3525065 |
 | 3  | Sheva Jalu Atmaja       | K3525073 |
-| 4  | Bhakti Rega Riana       | K3525088 |
 
 ---
 
@@ -112,6 +111,5 @@ Karena disimpan setiap ada perubahan (bukan hanya saat keluar), data tetap aman 
 | Nama | NIM | Kontribusi |
 |------|-----|------------|
 | Fathma Daniswara T.P | K3525060 | `peralatan_manager.py` |
-| Muhammad Ammar Fathin | K3525065 | `menu_app.py`, `tampilan.py`, `main.py` |
-| Sheva Jalu Atmaja | K3525073 | `entities.py`, `mahasiswa_manager.py`, `README.md` |
-| Bhakti Rega Riana | K3525088 | `transaksi_manager.py` |
+| Muhammad Ammar Fathin | K3525065 | `mahasiswa_manager.py` |
+| Sheva Jalu Atmaja | K3525073 | `transaksi_manager.py` |
