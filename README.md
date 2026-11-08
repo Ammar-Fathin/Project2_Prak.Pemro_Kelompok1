@@ -1,6 +1,6 @@
 # Sistem Peminjaman Alat LAB
 
-Aplikasi terminal (CLI) untuk mengelola peminjaman alat laboratorium. Dibuat dengan Python memakai konsep OOP, `dict`, `list`, dan modul `csv`. Tidak butuh database atau pustaka tambahan.
+Aplikasi terminal (CLI) untuk mengelola peminjaman alat laboratorium. Dibuat dengan Python memakai konsep OOP, `dict`, `list`, dan modul `csv`.
 
 | Tahap | Penyimpanan data | Keterangan |
 |-------|------------------|------------|
